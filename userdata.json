@@ -6,16 +6,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "ffb424f569d63490",
-        "key": "rmtkey0101",
-        "expirydate": "27-07-2025",
-        "Allowoffline": true 
+        "key": "key67890",
+        "expirydate": "27-08-2025",
+        "Allowoffline": true
     }
     
 ]
